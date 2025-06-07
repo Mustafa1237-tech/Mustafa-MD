@@ -1,6 +1,6 @@
 {
-  "name": "ALI-MD",
-  "description": "For deploying ALI-MD.",
+  "name": "MUSTAFA-MD",
+  "description": "For deploying MUSTAFA-MD.",
   "repository": "https://github.com/itx-alii-raza/ALI-MD",
   "build": {
     "commands": {
