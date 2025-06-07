@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "",
+SESSION_ID: process.env.SESSION_ID || "STARK-ALI~fwRFwaYL#TFWG0ReVnh7Wo07OKIyRM4HFB4sC1psI5ryKsM2IA7A",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
 // make true or false status auto seen
@@ -13,21 +13,21 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "true",
 // make true if you want auto reply on status 
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto reply on status 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS JUST NOW ALI-MD 👻*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*SEEN YOUR STATUS JUST NOW MUSTAFA-MD 👻*",
 // set the auto reply massage on status reply  
-PREFIX: process.env.PREFIX || ".",
+PREFIX: process.env.PREFIX || ".`♪~=°",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "ALI-MD",
+BOT_NAME: process.env.BOT_NAME || "MUSTAFA-MD",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "ALI-MD",
+STICKER_NAME: process.env.STICKER_NAME || "MUSTAFA-MD",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
 CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍",
 // chose custom react emojis by yourself 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "923003588997",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "923116609742",
 // add your bot owner number
-OWNER_NAME: process.env.OWNER_NAME || "ALI",
+OWNER_NAME: process.env.OWNER_NAME || "MUSTAFA",
 // add bot owner name 
 WELCOME: process.env.WELCOME || "true",
 // true if want welcome msg in groups
@@ -43,9 +43,9 @@ ANTI_CALL: process.env.ANTI_CALL || "false",
 //maks anticall true, false for calls
 REJECT_MSG: process.env.REJECT_MSG || "*📞 ᴄαℓℓ ɴσт αℓℓσωє∂ ιɴ тнιѕ ɴᴜмвєʀ уσυ ∂σɴт нανє ᴘєʀмιѕѕισɴ 📵*", 
 // add anticall message 
-DESCRIPTION: process.env.DESCRIPTION || "*© ᴘσωєʀє∂ ву αℓι м∂⎯꯭̽💀*",
+DESCRIPTION: process.env.DESCRIPTION || "*© ᴘσωєʀє∂ ву Mustafa md⎯꯭̽💀*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://cdn.ironman.my.id/i/2du3i5.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/5fmglo.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "> HEY 👋 IM ALIVE NOW*⚡",
 // add alive msg here 
@@ -77,7 +77,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "923003588997",
+DEV: process.env.DEV || "923116609742",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
