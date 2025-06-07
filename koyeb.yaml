@@ -1,6 +1,6 @@
-name: ali-ai
+name: mustafa-ai
 services:
-  - name: ali-ai-service
+  - name: mustafa-ai-service
     type: web
     ports:
       - 5000
