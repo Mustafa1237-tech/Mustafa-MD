@@ -3,7 +3,7 @@ services:
   - type: web
     name: crazy-v3
     env: node
-    repo: https://github.com/itx-alii-raza/ALI-MD
+    repo: https://github.com/itx-mustafa-raza/MUSTAFA-MD
     branch: main
     buildCommand: npm install
     startCommand: npm start
