@@ -25,7 +25,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a><img src='https://files.catbox.moe/6ku0eo.jpg'/></a>
+<a><img src='https://files.catbox.moe/5fmglo.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
@@ -63,7 +63,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ---
 
-### <h2 align="">𐃁ALI-MD DEPLOYMENT OPTIONS𐃁</h2>
+### <h2 align="">𐃁MUSTAFA-MD DEPLOYMENT OPTIONS𐃁</h2>
 
 ---
 
@@ -116,7 +116,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 ## <h3 align=""> HOW TO DEPLOY ON HUGGING FACE</h3>
 <h6 align-"center">
-*❄️ Deploy ali-md On Hugging Face For Free !*
+*❄️ Deploy mustafa-md On Hugging Face For Free !*
 
 `Specs :`
 - v2 CPU
